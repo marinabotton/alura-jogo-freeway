@@ -2,7 +2,7 @@
 
 * Curso: **Lógica de Programação: Laços e Listas com JavaScript** | ALURA | 4h
 
-* Neste curso, o jogo clássico Freeway utilizando a linguagem **Javascript**. 
+* Neste curso, recriei o jogo clássico Freeway utilizando a linguagem **Javascript**. 
 
 ### Aprendizados: 📚
 
